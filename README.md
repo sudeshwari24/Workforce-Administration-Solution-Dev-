@@ -99,6 +99,6 @@ The solution also utilizes Salesforce's *Automation Tools* like Flow and Process
 
 6. *Analytics & Reporting*: HR teams can generate reports and dashboards based on employee performance, attendance, and leave data. These insights help to improve workforce efficiency and engagement.
 
-## Folder Structure
+
 
 For Demo:[click here](https://drive.google.com/file/d/1KGNFu1eohWX7NsxknNyx98rmYqRgVOSo/view?usp=drivesdk)  
